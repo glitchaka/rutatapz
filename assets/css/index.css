@@ -230,9 +230,10 @@ button {
     height: 100%;
    }
    .team_img_wrapper {
-    width: 500px;
+    width: 300px;
     max-width: 100%;
     height: 440px;
+    margin: 0 auto;
    }
    .team_img_wrapper img {
     width: 100%;
@@ -337,4 +338,3 @@ button {
     height: 350px;
     }
    }
-   
